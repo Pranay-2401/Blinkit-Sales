@@ -28,9 +28,8 @@ Blinkit is India’s last-minute delivery app. This dashboard provides insights 
 | `Blinkit_Cleaned_data.xlsx` | Cleaned and processed data |
 | `Blinkit Sales Dashboard.png` | Final Power BI dashboard screenshot |
 
-## 📷 Dashboard Preview
 
-![Blinkit Dashboard](Blinkit%20Sales%20Dashboard.png)
+
 
 
 
